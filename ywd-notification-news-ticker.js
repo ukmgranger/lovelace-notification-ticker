@@ -94,7 +94,7 @@ class YWDEnhancedTicker extends HTMLElement {
             color: var(--ticker-icon-color, #eab308);
           }
           .t2-badge {
-            position: absolute; top: -4px; right: -4px; background: #E53935; color: white;
+            position: absolute; top: -4px; right: -4px; background: #bd7b7a; color: white;
             font-size: 10px; font-weight: bold; width: 18px; height: 18px; border-radius: 50%;
             display: flex; align-items: center; justify-content: center;
             border: 2px solid var(--ticker-bg, #1c1c1c); z-index: 2;
