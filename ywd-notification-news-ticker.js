@@ -44,7 +44,7 @@ class YWDEnhancedTicker extends HTMLElement {
         <style>
           ha-card {
             background: var(--ticker-bg, #1c1c1c);
-            border-radius: 12px;
+            border-radius: 28px;
             overflow: hidden;
             position: relative;
             transition: height 0.3s ease, margin 0.3s ease;
